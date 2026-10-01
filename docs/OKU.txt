@@ -3,7 +3,7 @@ Hazırlanma: 1 Ekim 2026
 
 index.html dosyasını tarayıcıda açın. ZIP indirirseniz önce tamamını bir klasöre çıkartın.
 
-4767 farklı HTML sayfa adresi bulundu. 4761 sayfa, 4386 görsel, 103 PDF indirildi.
+4767 farklı HTML sayfa adresi bulundu. 4761 sayfa, 4507 görsel, 103 PDF indirildi.
 
 KAPSAM
 Kaynak: web.archive.org CDX kayıtları ve erişilebilir Artlogic görsel sunucusu. Türkçe ve İngilizce bölümler dahil. Her URL için bulunan en yeni kayıt seçildi. Bazı adresler aynı içeriğin farklı URL veya galeri görünümüdür. Sayfa sayısı, benzersiz sanatçı/eser/sergi sayısı değildir.
