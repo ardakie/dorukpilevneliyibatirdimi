@@ -6,4 +6,4 @@ Galerinin resmî sitesi değildir. Kayıtlar farklı tarihlerdendir. Haklar ilgi
 Ana site: https://ardakie.github.io/dorukpilevneliyibatirdimi/
 Görsel arşivi: https://ardakie.github.io/dorukpilevneliyibatirdimi-medya/
 
-Kurtarılan bütün medya iki depoda korunur. Sayfalar gerektiğinde ikinci sitenin görsellerini kullanır. Tam çevrimdışı ZIP ana deponun Releases bölümündedir.
+Kurtarılan bütün medya iki depoda korunur. Sayfalar gerektiğinde ikinci sitenin görsellerini kullanır. Her görsel ana deponun split-manifest.json dosyasında korunduğu depo konumuna eşlenir.
