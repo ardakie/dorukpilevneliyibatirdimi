@@ -1,0 +1,47 @@
+URL: https://www.pilevneli.com/news/116-refik-anadol-made-the-2025-time100-ai-cover/
+Snapshot: 20260615021642
+
+The
+2025 TIME100 AI cover
+created by artist
+Refik Anadol
+, who was included in this year’s TIME100 list. The
+TIME100 Impact Awards
+are known for honoring groundbreaking leaders across various fields worldwide. Anadol joined the list in 2025, gaining international visibility for his work in digital art, and now continues to attract attention with his design of TIME magazine’s 2025 TIME100 AI cover.
+Anadol explained the design process of the 2025 TIME100 AI cover to
+TIME Editorial Fellow Tharin Pillay
+. The artist trained his studio’s AI system on an archive containing over 5,000 TIME covers spanning more than a century. The resulting abstract visualization, described by Anadol, represents the AI “dreaming” of TIME’s visual history, rendered in his signature fluid and molecular aesthetic.
+The
+Large Nature Model
+, a modular and multimodal AI system developed by Anadol and his team, is the product of extensive research and collaboration. According to Anadol, the system was trained on “the most extensive, ethically collected dataset of the natural world.” The dataset includes more than half a billion images from archives such as the
+National Geographic Society, Smithsonian Institution,
+and the
+Natural History Museum in London
+, as well as data collected directly from 16 rainforests. During the process, Anadol’s studio also leveraged technical support from
+Nvidia
+and
+Google Cloud
+, with models like
+Meta’s Llama
+and
+Google’s Gemini
+integrated into the system.
+The model analyzed each TIME cover to extract historical and thematic context, which was then used as prompts for the AI. Anadol explained that the system was run in two modes:
+“future cover”
+and
+“archive dream.”
+In the future cover mode, the AI imagined hopeful futures inspired by patterns from the past century. These imagined covers included entirely new professions, such as a “symbiotic architect, who designs buildings that are integrated living ecosystems” or a “chief memory curator, responsible for archiving our digital and physical past.” Anadol asks: “Can we use AI to dream new jobs? Can we use AI to find solutions to problems we created?”
+The final cover emerged from the “
+archive dream”
+mode, which represents a synthesis of TIME’s archive filtered through Anadol’s artistic sensibilities. While the core image was AI-generated, the cover’s text, contextual elements, and Anadol’s silhouette for scale were human-directed. The artist describes this as “true human-machine collaboration.” Online, the cover is presented as a seamless looping video.
+Although the project evokes Anadol’s 2022
+“Unsupervised”
+exhibition at MoMA, which attracted nearly three million visitors, the artist emphasizes that the two projects are conceptually and technically distinct. The MoMA project aimed to allow the system to develop its own aesthetic logic, whereas the TIME project was designed for the nature-based system to respond to human history. Anadol summarizes: “Ultimately, this project is an invitation. The future is not a fixed destination to be afraid of, but a fluid reality we can actually shape.”
+August 29, 2025
+RELATED ARTIST
+REFİK ANADOL
+PREVIOUS
+|
+Next
+29
+of 134

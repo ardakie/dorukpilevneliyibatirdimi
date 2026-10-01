@@ -1,0 +1,21 @@
+PİLEVNELİ SITE ARŞİVİ
+Hazırlanma: 1 Ekim 2026
+
+index.html dosyasını tarayıcıda açın. ZIP indirirseniz önce tamamını bir klasöre çıkartın.
+
+4767 farklı HTML sayfa adresi bulundu. 4761 sayfa, 4386 görsel, 103 PDF indirildi.
+
+KAPSAM
+Kaynak: web.archive.org CDX kayıtları ve erişilebilir Artlogic görsel sunucusu. Türkçe ve İngilizce bölümler dahil. Her URL için bulunan en yeni kayıt seçildi. Bazı adresler aynı içeriğin farklı URL veya galeri görünümüdür. Sayfa sayısı, benzersiz sanatçı/eser/sergi sayısı değildir.
+Sayfaların kayıt tarihleri farklıdır. Arşivde bulunmayan içerikler, eksik kayıtlar, videolar ve dinamik işlevler tümüyle kurtarılamayabilir. Bu paket sitenin eksiksiz son sürümü olduğu iddiasını taşımaz.
+
+DOSYALAR
+raw/: Internet Archive'dan indirilen ham HTML.
+pages/: okunabilir, bağlantıları düzenlenmiş yerel HTML sayfaları.
+texts/: sayfa içeriklerinin düz metinleri.
+media/: en fazla 1600 piksel sınırında indirilen erişilebilir görseller.
+pdf/: indirilen PDF belgeler.
+sayfa-listesi.csv ve inventory.json: sayfa adresleri, kayıt tarihleri, indirme durumları, hatalar.
+media-inventory.json ve pdf-inventory.json: medya ve PDF kaynakları, indirme durumları.
+
+Özgün içerik ve görsellerin hakları ilgili sahiplerindedir.

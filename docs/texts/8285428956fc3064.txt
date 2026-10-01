@@ -1,0 +1,10 @@
+URL: https://www.pilevneli.com/tr/store/basket/
+Snapshot: 20260415230801
+
+Store
+Shopping cart
+Your shopping cart is empty.
+Powered by Stripe
+visa
+mastercard
+amex
